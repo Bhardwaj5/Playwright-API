@@ -1,4 +1,4 @@
-package com.qa.api.tests;
+package com.api.data;
 
 public class User {
     private String id;
